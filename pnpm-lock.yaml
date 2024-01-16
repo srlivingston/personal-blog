@@ -11,6 +11,9 @@ dependencies:
   '@fontsource/manrope':
     specifier: ^5.0.18
     version: 5.0.18
+  '@fontsource/mononoki':
+    specifier: ^5.0.7
+    version: 5.0.7
   lucide-svelte:
     specifier: ^0.309.0
     version: 0.309.0(svelte@4.2.8)
@@ -332,6 +335,10 @@ packages:
 
   /@fontsource/manrope@5.0.18:
     resolution: {integrity: sha512-rcH+NXafXbKaLU+xS5VRAOBvI1FOf2VvLUYv3TQXpF9HETtpWwLb9+/4N/kFOA/0YneqkQal+YTqTYEmqGip1g==}
+    dev: false
+
+  /@fontsource/mononoki@5.0.7:
+    resolution: {integrity: sha512-kde/6GjVxCSZIuITQs76vd4Vc6FOx8PHZ7+Nw4u97wDCy6XE022EU0AvfeXxNw/d2FAesKbhBFtGxT2IWG1SAQ==}
     dev: false
 
   /@humanwhocodes/config-array@0.11.14:
