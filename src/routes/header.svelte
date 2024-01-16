@@ -21,8 +21,6 @@
             <a href="/contact">Contact</a>
         </li>
     </ul>
-
-    <button>Toggle</button>
 </nav>
 
 <style>
