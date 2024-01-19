@@ -1,9 +1,9 @@
-@import '@fontsource/manrope';
+@import '@fontsource/lexend';
 @import '@fontsource/mononoki';
 
 html {
 	/* font */
-	--font-sans: 'Manrope', sans-serif;
+	--font-sans: 'Lexend', sans-serif;
 	--font-mono: 'Mononoki', monospace;
 
 	/* dark */
