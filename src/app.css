@@ -7,7 +7,7 @@ html {
 	--font-mono: 'Mononoki', monospace;
 
 	/* dark */
-	--brand-dark: var(--green-3);
+	--brand-dark: var(--blue-3);
 	--text-1-dark: var(--green-3);
 	--text-2-dark: var(--green-5);
 	--surface-1-dark: var(--green-12);
