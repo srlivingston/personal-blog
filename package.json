@@ -35,6 +35,7 @@
 		"@fontsource/jetbrains-mono": "^5.0.18",
 		"@fontsource/lexend": "^5.0.18",
 		"@fontsource/mononoki": "^5.0.7",
+		"@vercel/analytics": "^1.2.2",
 		"lucide-svelte": "^0.309.0",
 		"open-props": "^1.6.17",
 		"shiki": "^0.14.7"
